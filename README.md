@@ -17,6 +17,6 @@ Also, attribution will be appreciated, althoug is not neccesary.
 
 # Contact
 
-As usual, you can contact me directly throught Github or, if you prefer, at [@mdblabs](www.twitter.com/mdblabs).
+As usual, you can contact me directly throught Github or, if you prefer, at [@mdblabs](https://www.twitter.com/mdblabs).
 
 
