@@ -1,5 +1,5 @@
 # One Game Design
-How games / video games are designed, from a newbie point of view.
+How games / video games are designed, from a newbie's point of view.
 
 # Motivation
 
