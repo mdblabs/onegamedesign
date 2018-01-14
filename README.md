@@ -11,12 +11,12 @@ Every content will be shared, under open source license (see License), in this G
 
 # License
 
-Every content included in this repository is covered under [GPL3 Open Source License](https://www.gnu.org/licenses/gpl-3.0.en.html). Feel free to use it under those specific terms. 
+Every content included in this repository, except from /docs pages which is cover under MIT License and based on [Paul Le's Jekyll Portfolio Theme](https://github.com/LeNPaul/portfolio-jekyll-theme), is covered under [GPL3 Open Source License](https://www.gnu.org/licenses/gpl-3.0.en.html). Feel free to use it under those specific terms. 
 
-Also, attribution will be appreciated, althoug is not neccesary.
+Also, attribution will be appreciated, although is not necessary.
 
 # Contact
 
-As usual, you can contact me directly throught Github or, if you prefer, at [@mdblabs](https://www.twitter.com/mdblabs).
+As usual, you can contact me directly through Github or, if you prefer, at [@mdblabs](https://www.twitter.com/mdblabs).
 
 
