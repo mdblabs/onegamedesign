@@ -25,13 +25,14 @@ I followed a similar voting schema like the use on LDJAM.
 
 In this case the winner was.... DeepSpace!
 
-![Winner]({{"/assets/img/projects/proj-1/1803-2.png"|absolute_url}})
-
 Ok, I know what you are thinking... As I'm doing this alone, and while this is the first game, I tried to be as realistic as possible, trying not to apply any bias over voting, and so on.
  
 Votes are defined by just personal experience: easy to develop, funny creative theme, etc.
 
-Here you are random picked themes, vote results and winner table.
+Here are  the random picked themes, vote results and winner table.
+
+![Winner]({{"/assets/img/projects/proj-1/1803-2.png"|absolute_url}})
+
 
 Tomorrow I'll work on game mechanics. It was an easy start!
 
