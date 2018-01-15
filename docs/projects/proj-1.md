@@ -2,11 +2,11 @@
 layout: post
 title: 'Project One'
 ---
-{% include image.html image="projects/proj-1/thumb.jpg" %}
+{% image="projects/proj-1/thumb.jpg" %}
 
 This is week 1803 game progress log. Please, visit About page for more info, or go directly to [Github Repository](https://github.com/mdblabs/onegamedesign).
 
-# Day 1
+## Day 1
 
 This is OGD first day, first game! I built a short backlog (Github's Kanban Board #1803).
 
