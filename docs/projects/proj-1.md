@@ -5,11 +5,11 @@ title: 'Project One'
 
 This is week 1803 game progress log. Please, visit About page for more info, or go directly to [Github Repository](https://github.com/mdblabs/onegamedesign).
 
-### Day 1
+#### Day 1
 
 This is OGD first day, first game! I built a short backlog ([Github's Kanban Board #1803](https://github.com/mdblabs/onegamedesign/projects/1).
 
-![Backlog]({{ site.url }}/assets/img/projects/proj-1/1803-1.png)
+![Backlog]({{ site.url }}/img/projects/proj-1/1803-1.png)
 
 ![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-1.png "")
 
