@@ -7,9 +7,15 @@ This is week 1803 game progress log. Please, visit About page for more info, or 
 
 ## Day 1
 
-This is OGD first day, first game! I built a short backlog (Github's Kanban Board #1803).
+This is OGD first day, first game! I built a short backlog ([Github's Kanban Board #1803](https://github.com/mdblabs/onegamedesign/projects/1).
+
+![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-1.png "")
+
 
 Also, I used [Cowface's Random Title](http://www.cowfacegames.com/) generator, which is based on LDJAM old themes.
+
+![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-3.png "")
+
 
 I followed a similar voting schema like the use on LDJAM. 
 * First I selected 10 random titles, whithout any filter.
@@ -18,6 +24,8 @@ I followed a similar voting schema like the use on LDJAM.
 * I selected the winner.
 
 In this case the winner was.... DeepSpace!
+
+![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-2.png "")
 
 Ok, I know what you are thinking... As I'm doing this alone, and while this is the first game, I tried to be as realistic as possible, trying not to apply any bias over voting, and so on.
  
