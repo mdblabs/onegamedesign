@@ -11,12 +11,10 @@ This is OGD first day, first game! I built a short backlog ([Github's Kanban Boa
 
 ![Backlog]({{"/assets/img/projects/proj-1/1803-1.png"|absolute_url}})
 
-![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-1.png "")
-
 
 Also, I used [Cowface's Random Title](http://www.cowfacegames.com/) generator, which is based on LDJAM old themes.
 
-![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-3.png "")
+![Random Title]({{"/assets/img/projects/proj-1/1803-3.png"|absolute_url}})
 
 
 I followed a similar voting schema like the use on LDJAM. 
@@ -27,7 +25,7 @@ I followed a similar voting schema like the use on LDJAM.
 
 In this case the winner was.... DeepSpace!
 
-![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-2.png "")
+![Winner]({{"/assets/img/projects/proj-1/1803-2.png"|absolute_url}})
 
 Ok, I know what you are thinking... As I'm doing this alone, and while this is the first game, I tried to be as realistic as possible, trying not to apply any bias over voting, and so on.
  
