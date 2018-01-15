@@ -58,8 +58,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'twitter', link: 'https://twitter.com/mdblabs'}
+- {icon: 'github', link: 'https://github.com/mdblabs/onegamedesign'}
+- {icon: 'envelope', link: 'mailto:mdb@mdblabs.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
