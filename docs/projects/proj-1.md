@@ -2,7 +2,6 @@
 layout: post
 title: 'Project One'
 ---
-{% image="projects/proj-1/thumb.jpg" %}
 
 This is week 1803 game progress log. Please, visit About page for more info, or go directly to [Github Repository](https://github.com/mdblabs/onegamedesign).
 
