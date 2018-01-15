@@ -9,7 +9,7 @@ This is week 1803 game progress log. Please, visit About page for more info, or 
 
 This is OGD first day, first game! I built a short backlog ([Github's Kanban Board #1803](https://github.com/mdblabs/onegamedesign/projects/1).
 
-![Backlog](https://github.com/mdblabs/onegamedesign/blob/master/docs/assets/img/projects/proj-1/1803-1.png)
+!![Backlog](/assets/img/projects/proj-1/1803-1.png)
 
 ![alt text](https://github.com/mdblabs/onegamedesign/blob/master/games/18/1803/imgs/1803-1.png "")
 
