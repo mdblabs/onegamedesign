@@ -3,9 +3,9 @@ layout: post
 title: 'Project One'
 ---
 
-*Game Name:*  Signal Lost
-*Game Style:* Simulator
-*Source Code:* [Godot's Project](https://github.com/mdblabs/onegamedesign/tree/master/games/18/1803)
+* *Game Name:*  Signal Lost
+* *Game Style:* Simulator
+* *Source Code:* [Godot's Project](https://github.com/mdblabs/onegamedesign/tree/master/games/18/1803)
 
 This is week 1803 game progress log. Please, visit About page for more info, or go directly to [Github Repository](https://github.com/mdblabs/onegamedesign).
 
