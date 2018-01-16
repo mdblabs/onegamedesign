@@ -11,7 +11,7 @@ This is week 1803 game progress log. Please, visit About page for more info, or 
 
 #### Day 2
 
-Yesterday I searched for some "Deep Space" images. Solar System and galaxies appears as inspiration. I had an idea, looking at a Milky Way picture: how difficult would to search for radio signals coming from deep space?
+Yesterday I searched for some "Deep Space" images. Solar System and galaxies appears as inspiration. I had an idea, looking at a Milky Way picture: how difficult would be to search for radio signals coming from deep space?
 
 So, I imagined the control panel: should be something similar to ["Carmen SanDiego"](https://www.youtube.com/watch?v=9uGewysTKZY) UX, whith boxes, and text, and signals, and lights turning on and off, and that kind of stuff. 
 
