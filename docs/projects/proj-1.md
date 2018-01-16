@@ -3,9 +3,9 @@ layout: post
 title: 'Project One'
 ---
 
-* *Game Name:*  Signal Lost
-* *Game Style:* Simulator
-* *Source Code:* [Godot's Project](https://github.com/mdblabs/onegamedesign/tree/master/games/18/1803)
+* **Game Name:**  Signal Lost
+* **Game Style:** Simulator
+* **Source Code:** [Godot's Project](https://github.com/mdblabs/onegamedesign/tree/master/games/18/1803)
 
 This is week 1803 game progress log. Please, visit About page for more info, or go directly to [Github Repository](https://github.com/mdblabs/onegamedesign).
 
@@ -17,7 +17,7 @@ So, I imagined the control panel: should be something similar to ["Carmen SanDie
 
 Today, after a short "Brainstorming", with the help of my video game partner, [@ruthgonzreb](https://twitter.com/ruthgonzreb), final idea was decided.
 
-##### Argument
+**Argument**
 
 1. You are in charged of the Deep Space Communication Network of your planet. 
 2. It is your first day, and you start learning how to control an antenna.
@@ -26,13 +26,13 @@ Today, after a short "Brainstorming", with the help of my video game partner, [@
 
 Ok, so we have an idea, and some kind of mechanics. Great!
 
-##### Initial Designs
+**Initial Designs**
 
 I draw some sketches about antennas, control panels and satellites. 
 
 ![Sketch]({{"/assets/img/projects/proj-1/1803-4.png"|absolute_url}})
 
-##### Main Mechanics
+**Main Mechanics**
 
 Main mechanics is already defined: Re-arrange an antenna dish in one axis, while receiving signals.
 
